@@ -1,0 +1,31 @@
+what is the total sales (sum of all sales) of Supermarket Type1 in area Kennebec County, ME?
+38680
+
+Should storecode be included in building models?
+No
+
+should country be treated as numeric type or character?
+character
+
+
+Find out number of unique categories of variable Areaname.
+1891
+
+For store type grocery store what is the response rate ?
+42.13
+
+Do all the sales variable follow normal distribution?
+No
+
+Number of outliers for total sales based on following limits (q1-1.5*IQR, q3+1.5*IQR)?
+140
+
+which store type has maximum variance in total sales?
+grocery store
+
+How many dummies will you create for variable state_alpha?
+53
+
+
+What should be the type of categorical variable when using the function randomForest?
+numeric X
